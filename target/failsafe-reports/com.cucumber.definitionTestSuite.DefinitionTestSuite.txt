@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cucumber.definitionTestSuite.DefinitionTestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 5.091 sec - in com.cucumber.definitionTestSuite.DefinitionTestSuite
